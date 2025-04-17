@@ -182,3 +182,11 @@ body {
   opacity: 1;
   transform: translateX(0);
 }
+
+.icon-img {
+  width: 24px;
+  height: 24px;
+  object-fit: contain;
+  display: block;
+  margin-top: -2px; /* adjust ini kalau masih belum rata tengah */
+}
